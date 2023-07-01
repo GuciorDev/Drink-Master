@@ -1,6 +1,12 @@
 # Drink-Master
 
-The DrinkMaster App is a web application that enables users to create and customize virtual drinks by adding layers of different alcoholic beverages and chasers. The app provides a visual representation of the drink in a glass container, allowing users to experiment with various combinations and proportions.
+The "DrinkMaster App" is a web application that allows users to create and customize their own virtual drinks by adding different layers of alcoholic beverages and chasers. The app provides a visual representation of the drink in a glass container. Users can select from various types of alcohol such as vodka, rum, gin, tequila, and whiskey, and add them to the glass by clicking on the corresponding buttons. Each layer of alcohol is represented by a different color.
+
+Additionally, users can choose to add a chaser to their drink by selecting from options like coke, juice, or water. Depending on the selected chaser, additional dropdown menus appear for selecting specific types of juice or coke. When a chaser is added, it appears as a new layer in the glass.
+
+The app also provides the functionality to delete the topmost layer of the drink by clicking on the "Delete Drink" button. A popup window appears when the user clicks on the "Add %" button, allowing them to specify the brand and amount of the selected alcohol to be added as a new layer. The user can input the desired amount within a range of 5 mL to 250 mL.
+
+The DrinkMaster App utilizes the Bootstrap CSS framework for styling and layout, and it relies on Bootstrap's JavaScript and jQuery libraries for interactive elements and dynamic behavior.
 
 How to Use
 Open the "index.html" file in a web browser.
